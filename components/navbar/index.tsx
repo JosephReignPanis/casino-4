@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <div className="hidden lg:block">
       {/* Top Nav */}
-      <nav className="bg-[#171719] flex justify-center nav-bg">
+      <nav className="bg-neutral-950/60 flex justify-center nav-bg">
         <div className="flex items-center gap-7 pt-15">
           <Link href="/navigation/charge" className="nav-btn-primary">
             입금신청
@@ -52,7 +52,7 @@ export default function Navbar() {
       <hr className="hr-gradient" />
 
       {/* Bottom Nav */}
-      <nav className="navgradient flex justify-center items-center p-3">
+      <nav className="navgradient flex justify-center items-center font-bold p-3">
         <div className="flex items-center gap-8">
           <Link href="/categories/sports" className="nav-btn-secondary">
             스포츠 (해외형)
