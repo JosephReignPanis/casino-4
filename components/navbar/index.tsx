@@ -53,7 +53,7 @@ export default function Navbar() {
 
       {/* Bottom Nav */}
       <nav className="navgradient flex justify-center items-center p-3">
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-10">
           <Link href="/categories/sports" className="nav-btn-secondary">
             스포츠 (해외형)
           </Link>
