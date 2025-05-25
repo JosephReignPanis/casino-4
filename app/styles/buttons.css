@@ -1,0 +1,16 @@
+.navgradient {
+  background: var(--primary-bg-gradient);
+}
+.sidebar-bg {
+  background: var(--sb-gradient);
+}
+.btn-golden-gradient {
+  background: var(--secondary-bg-gradient);
+}
+.btn-gold-nav-gradient {
+  color: #ffffff;
+  background: var(--secondary-bg-gradient);
+}
+.btn-gold-bg {
+  background: var(--secondary-bg-gradient);
+}
