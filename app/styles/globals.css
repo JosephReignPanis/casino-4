@@ -111,9 +111,6 @@ body {
   mix-blend-mode: normal;
 }
 .nav-btn-secondary {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-  font-weight: 700;
   color: white;
   text-shadow: 0rem 0rem 0.5rem #000000;
   mix-blend-mode: normal;

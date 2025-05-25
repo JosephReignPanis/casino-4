@@ -59,21 +59,21 @@ export default function LandingPage() {
           <div className="col-span-1 flex flex-col gap-2">
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
@@ -82,21 +82,21 @@ export default function LandingPage() {
           <div className="col-span-1 flex flex-col gap-2">
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/sports.png"}
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="object-contain w-full pb-2"
@@ -128,25 +128,25 @@ export default function LandingPage() {
       </div>
 
       <div className="col-span-7 hidden sm:block">
-        <div className="grid grid-cols-4 gap-2">
+        <div className="grid grid-cols-4 gap-1">
           <div className="col-span-1 gap-2">
             <Image
               src="/placeholder1.png"
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="w-full pb-2"
             />
             <Image
               src="/placeholder1.png"
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="w-full pb-2"
             />
             <Image
               src="/placeholder1.png"
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="w-full pb-2"
@@ -155,7 +155,7 @@ export default function LandingPage() {
           <div className="col-span-2">
             <Image
               src="/placeholder2.png"
-              width={100}
+              width={500}
               height={100}
               alt="placeholder"
               className="w-full object-cover"
@@ -164,14 +164,14 @@ export default function LandingPage() {
           <div className="col-span-1 gap-2">
             <Image
               src="/placeholder1.png"
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="w-full pb-2"
             />
             <Image
               src="/placeholder1.png"
-              width={120}
+              width={220}
               height={100}
               alt="placeholder"
               className="w-full pb-2"
