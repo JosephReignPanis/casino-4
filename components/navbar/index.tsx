@@ -52,13 +52,7 @@ export default function Navbar() {
       <hr className="hr-gradient" />
 
       {/* Bottom Nav */}
-      <nav className="navgradient flex justify-between items-center p-3">
-        <div className="flex items-center gap-2">
-          <Image src="/navtalk.png" width={20} height={20} alt="Talk Icon" />
-          <p>
-            입금계좌는 수시로 변경되오니 입금전 계좌를 꼭 확인해 주시기.....
-          </p>
-        </div>
+      <nav className="navgradient flex justify-center items-center p-3">
         <div className="flex items-center gap-4">
           <Link href="/categories/sports" className="nav-btn-secondary">
             스포츠 (해외형)
