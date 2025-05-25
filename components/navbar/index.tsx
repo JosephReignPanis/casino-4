@@ -52,7 +52,7 @@ export default function Navbar() {
       <hr className="hr-gradient" />
 
       {/* Bottom Nav */}
-      <nav className="navgradient flex justify-between items-center text-lg font-bold p-3">
+      <nav className="navgradient flex justify-between items-center p-3">
         <div className="flex items-center gap-2">
           <Image src="/navtalk.png" width={20} height={20} alt="Talk Icon" />
           <p>
